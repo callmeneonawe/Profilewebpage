@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+body{
+    text-align: center;
+    background-color: bisque;
+}
+.line{
+    margin-bottom: 50px;
+    margin-left:600px;
+    height: 4px;
+    width:45px;
+    background-color:rgb(151, 16, 192);
+}
